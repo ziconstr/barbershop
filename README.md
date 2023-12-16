@@ -6,7 +6,9 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-The project is a personal excirse project that I am doing. 
+This project is my personal endeavor, where I'm creating a versatile website template suitable for small businesses such as barbershops, events, portfolios, and more. I'm using fundamental technologies like HTML, CSS, and JavaScript, focusing on crafting a user-friendly and responsive design.
+
+
 
 You can add some bullet points if you'd like to:
 
