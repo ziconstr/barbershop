@@ -10,6 +10,7 @@ html {
 	font-size: 16px;
 	font-family: "Raleway", sans-serif;
 	color: #555;
+	scroll-behavior: smooth;
 }
 
 ul,
@@ -107,7 +108,8 @@ section p {
 /*Header Styles*/
 
 header {
-	position: absolute;
+	/* position: absolute; */
+	position: fixed;
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
@@ -116,6 +118,7 @@ header {
 	animation: 1s fadein 0.5s forwards;
 	opacity: 0;
 	color: #fff;
+	background-color: rgba(0, 0, 0, 0.5); 
 	z-index: 2;
 }
 
