@@ -28,9 +28,9 @@ You can list a the tech stack that you've used over here
 
 - Banner
 - About 
-- Contact
-- List of staff 
-- Booking form
+- Packages
+- Request / Contact
+- Barbers 7 (staff)
 - Footer
 
 
