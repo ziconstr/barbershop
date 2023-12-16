@@ -6,7 +6,7 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-The project aims to create a comprehensive and visually appealing personal portfolio website to showcase my skills, work, and professional experience. The website will serve as an online representation of my professional identity, providing visitors with valuable insights into my capabilities and accomplishments. The primary technologies utilized for this project include HTML, CSS, and JavaScript, with an emphasis on creating a user-friendly and responsive design.
+The project is a personal excirse project that I am doing. 
 
 You can add some bullet points if you'd like to:
 
@@ -20,8 +20,17 @@ You can list a the tech stack that you've used over here
 
 - [HTML]
 - [CSS]
-- [Javascript]
 - [Photoshop]
+
+## Site Architecture
+
+- Banner
+- About 
+- Contact
+- List of staff 
+- Booking form
+- Footer
+
 
 ## Getting Started
 
@@ -32,7 +41,7 @@ Get started with this project.
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:ziconstr/Portfolio-1-zico.git
+git clone git@github.com:ziconstr/barbershop.git
 ```
 
 2. Install the dependencies:
@@ -109,12 +118,12 @@ Thank you for contributing to [PORTFOLIO 1]! If you have any questions or need a
 
 ## Live project
 
-- [Netlify] https://wondrous-semolina-ca284a.netlify.app/
+- [Netlify] https://startling-fairy-fd3438.netlify.app/
 
 
 ## Acknowledgments
 
-This is my first Portfolio, and I'm pleased with it. However, I know there's room for improvement. With more practice over time, I hope to create a better and more impressive Portfolio to showcase myself.
+This is my a practice project I am doing in my freetime. I am trying to learn something new like import the font onto css and getting the img src from CSS.
 
 
 ## Sources
