@@ -18,8 +18,13 @@
 
 .cards{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
+    /* grid-template-columns: repeat(3, 1fr); */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 30px;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+	justify-content: center;
 }
 
 .card{
@@ -32,17 +37,18 @@
 }
 
 .card img{
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 100%;
     object-fit: cover;
     border-radius: 50%;
-    margin-bottom: 30px;
+    margin-bottom: 90px;
 }
 
 .card .card-name{
     margin-bottom: 10px;
     font-weight: 500;
     font-size: 24px;
+    font-family: "Rubik";
     
 }
 
@@ -50,6 +56,7 @@
     font-size: 16px;
     color: #888;
     margin-bottom: 40px;
+    font-family: "Amatic SC";
     
 }
 
@@ -72,3 +79,5 @@
         grid-template-columns: 1fr;
     }
 }
+
+
