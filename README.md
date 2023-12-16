@@ -115,3 +115,11 @@ Thank you for contributing to [PORTFOLIO 1]! If you have any questions or need a
 ## Acknowledgments
 
 This is my first Portfolio, and I'm pleased with it. However, I know there's room for improvement. With more practice over time, I hope to create a better and more impressive Portfolio to showcase myself.
+
+
+## Sources
+
+pictures collected mostly from google search and various websites:
+https://3tdesign.edu.vn/barber-wallpaper-hd-v0jx40yq/
+https://www.imdb.com/title/tt9584052/
+https://www.instagram.com/frankschopshopfukuoka/
